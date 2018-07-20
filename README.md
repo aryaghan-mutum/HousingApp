@@ -1,5 +1,5 @@
 #### Description 
-Housing App for Kansas State University
+Housing and Dining App for Kansas State University
 
 #### Programming language
 - C#
