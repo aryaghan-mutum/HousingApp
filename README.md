@@ -1,10 +1,11 @@
-### Housing App for Kansas State University
+#### Description 
+Housing App for Kansas State University
 
-### Programming language
+#### Programming language
 - C#
 
-### IDE
+#### IDE
 - Visual Studio. 
 
-### Framework
+#### Framework
 - Microsoft .NET Framework
